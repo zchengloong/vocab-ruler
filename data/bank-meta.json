@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "builtAt": "2026-10-17T13:04:26.836Z",
+  "source": "ECDICT",
+  "sourceUrl": "https://github.com/skywind3000/ECDICT",
+  "license": "MIT",
+  "totalWords": 14088,
+  "books": [
+    {
+      "slug": "all",
+      "name": "综合词汇",
+      "size": 12000,
+      "target": 12000
+    },
+    {
+      "slug": "cet4",
+      "name": "四级 CET-4",
+      "size": 3830,
+      "target": 4500
+    },
+    {
+      "slug": "cet6",
+      "name": "六级 CET-6",
+      "size": 5382,
+      "target": 6000
+    },
+    {
+      "slug": "kaoyan",
+      "name": "考研英语",
+      "size": 4799,
+      "target": 5500
+    },
+    {
+      "slug": "toefl",
+      "name": "托福 TOEFL",
+      "size": 6843,
+      "target": 8000
+    },
+    {
+      "slug": "ielts",
+      "name": "雅思 IELTS",
+      "size": 4721,
+      "target": 7000
+    },
+    {
+      "slug": "gre",
+      "name": "GRE",
+      "size": 7122,
+      "target": 10000
+    }
+  ]
+}
